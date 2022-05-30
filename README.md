@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **Blockchain, Docker**
 
-- 👨‍💻 All of my projects are available at [https://yassineharrachmin.me/](https://yassineharrachmin.me/)
+- 👨‍💻 All of my projects are available at [yassineharrachmin.me/](yassineharrachmin.me/)
 
-- 📝 I regularly write articles on [https://yassineharrachmin.me/](https://yassineharrachmin.me/)
+- 📝 I regularly write articles on [yassineharrachmin.me/](yassineharrachmin.me/)
 
 - 💬 Ask me about **Java, angular**
 
 - 📫 How to reach me **harrachmin.m.yassine@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fl5gRZ2RS8ThArcgdbx9mD3F5TZddJma](https://drive.google.com/file/d/1fl5gRZ2RS8ThArcgdbx9mD3F5TZddJma)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1fl5gRZ2RS8ThArcgdbx9mD3F5TZddJma)
 
 - ⚡ Fun fact **I drink water every 10 min**
 
