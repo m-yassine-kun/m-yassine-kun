@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **Blockchain, Docker**
 
-- 👨‍💻 All of my projects are available at [https://yassineharrachmin.me/](yassineharrachmin.me/)
+- 👨‍💻 All of my projects are available at [yassineharrachmin.me/](https://yassineharrachmin.me/)
 
-- 📝 I regularly write articles on [https://yassineharrachmin.me](yassineharrachmin.me/)
+- 📝 I regularly write articles on [yassineharrachmin.me/](https://yassineharrachmin.me/)
 
 - 💬 Ask me about **Java, angular**
 
