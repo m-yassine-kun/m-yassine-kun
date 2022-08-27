@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Blockchain, Docker**
 
-- 👨‍💻 All of my projects are available at [yassineharrachmin.me/](https://yassineharrachmin.me/)
+- 👨‍💻 All of my projects are available at [yassineharrachmin.me](https://yassineharrachmin.me/)
 
-- 📝 I regularly write articles on [yassineharrachmin.me/](https://yassineharrachmin.me/)
+- 📝 I regularly write articles on [yassineharrachmin.me](https://yassineharrachmin.me/)
 
-- 💬 Ask me about **Java, angular**
+- 💬 Ask me about **Java, React.js**
 
 - 📫 How to reach me **harrachmin.m.yassine@gmail.com**
 
