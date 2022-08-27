@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Yassine Harrachmin</h1>
 <h3 align="center">A passionate developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=m-yassine-kun&label=Profile%20views&color=0e75b6&style=flat" alt="m-yassine-kun" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=m-yassine-kun" alt="m-yassine-kun" /></a> </p>
 
 - 🔭 I’m currently working on [Cinema project](https://github.com/m-yassine-kun/cinema-management-system)
 
