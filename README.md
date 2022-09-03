@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-yassine-kun&label=Profile%20views&color=0e75b6&style=flat" alt="m-yassine-kun" /> </p>
 
-- 🔭 I’m currently working on [Cinema project](https://github.com/m-yassine-kun/cinema-management-system)
+- 🔭 I’m currently working on [E-commenrce project](https://github.com/m-yassine-kun/angular-springboot-ecommerce)
 
 - 🌱 I’m currently learning **Blockchain, Docker**
 
@@ -15,9 +15,9 @@
 
 - 📫 How to reach me **harrachmin.m.yassine@gmail.com**
 
-- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/1fl5gRZ2RS8ThArcgdbx9mD3F5TZddJma)
+- 📄 Know about my experiences [My resume](https://drive.google.com/file/d/18-WawT9JQx9dDbP-vabXQ_7WBo-CU9y4)
 
-- ⚡ Fun fact **I drink water every 10 min**
+- ⚡ Fun fact **I drink a lot of water every day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
