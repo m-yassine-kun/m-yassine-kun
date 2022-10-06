@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on [E-commenrce project](https://github.com/m-yassine-kun/angular-springboot-ecommerce)
 
-- 🌱 I’m currently learning **Blockchain, Docker**
+- 🌱 I’m currently learning **Blockchain, DevOps**
 
 - 👨‍💻 All of my projects are available at [yassineharrachmin.me](https://yassineharrachmin.me/)
 
 - 📝 I regularly write articles on [yassineharrachmin.me](https://yassineharrachmin.me/)
 
-- 💬 Ask me about **Java, React.js**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **harrachmin.m.yassine@gmail.com**
 
