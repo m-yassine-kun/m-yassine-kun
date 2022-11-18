@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-yassine-kun&label=Profile%20views&color=0e75b6&style=flat" alt="m-yassine-kun" /> </p>
 
-- 🔭 I’m currently working on [E-commenrce project](https://github.com/m-yassine-kun/angular-springboot-ecommerce)
+- 🔭 I’m currently working on [micro-service project](https://github.com/m-yassine-kun/ms-product)
 
-- 🌱 I’m currently learning **Blockchain, DevOps**
+- 🌱 I’m currently learning **Angular, Docker**
 
 - 👨‍💻 All of my projects are available at [yassineharrachmin.me](https://yassineharrachmin.me/)
 
