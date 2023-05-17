@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [My resume](https://drive.google.com/file/d/18-WawT9JQx9dDbP-vabXQ_7WBo-CU9y4)
 
-- ⚡ Fun fact **I drink a lot of water every day**
+- ⚡ Fun fact **I love playing video games**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
