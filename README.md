@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-yassine-kun&label=Profile%20views&color=0e75b6&style=flat" alt="m-yassine-kun" /> </p>
 
-- 🌱 I’m currently learning **Docker, K8s**
+- 🌱 I’m currently learning **K8s**
 
 - 👨‍💻 I love learning new technologies or contributing to new projects.
 
