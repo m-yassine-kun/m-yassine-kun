@@ -3,9 +3,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=m-yassine-kun&label=Profile%20views&color=0e75b6&style=flat" alt="m-yassine-kun" /> </p>
 
-- 🌱 I’m currently learning **Angular, Docker**
+- 🌱 I’m currently learning **Docker, K8s**
 
-- 👨‍💻 I love learning new technologies or contributing to projects.
+- 👨‍💻 I love learning new technologies or contributing to new projects.
 
 - 💬 Ask me about **Java**
 
@@ -16,11 +16,9 @@
 
 ### Languages
 
-
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Front-End Development
 
@@ -31,7 +29,6 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
 
 
 ### Backend as a Service (BaaS)
